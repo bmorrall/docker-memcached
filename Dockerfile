@@ -9,7 +9,7 @@
 FROM ubuntu
 
 # Set the file maintainer (your name - the file's author)
-MAINTAINER Borja Burgos <borja@tutum.co>
+MAINTAINER Ben Morrall <bemo56@hotmail.com>
 
 # Update the default application repository sources list
 RUN apt-get update
